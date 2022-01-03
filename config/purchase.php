@@ -65,6 +65,7 @@ return [
         DidRecover::class => [],
         DidRenew::class => [],
         InitialBuy::class => [],
+        
         InteractiveRenewal::class => [],
         PriceIncreaseConsent::class => [],
         Refund::class => [],
