@@ -33,6 +33,7 @@ return [
     'appstore_password' => env('APPSTORE_PASSWORD', ''),
 
     'eventListeners' => [
+        
         /**
          * --------------------------------------------------------
          * Google Play Events
