@@ -1,6 +1,7 @@
 <?php
 
 use Imdhemy\Purchases\Events\AppStore\Cancel;
+
 use Imdhemy\Purchases\Events\AppStore\DidChangeRenewalPref;
 use Imdhemy\Purchases\Events\AppStore\DidChangeRenewalStatus;
 use Imdhemy\Purchases\Events\AppStore\DidFailToRenew;
